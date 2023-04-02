@@ -1,0 +1,31 @@
+2023-04-03 01:11:29.342480 - Initialized conversion of CBT562
+2023-04-03 01:11:29.575235 - Received CBT.V504.FILE562.PDS from FILE562.XMI 
+2023-04-03 01:11:29.577492 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE562.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:11:29.578519 - Found $$NOTE1.txt (text/plain) in CBT.V504.FILE562.PDS, moved to PDS/$$NOTE1
+2023-04-03 01:11:29.579814 - Found $$NOTE2.txt (text/plain) in CBT.V504.FILE562.PDS, moved to PDS/$$NOTE2
+2023-04-03 01:11:29.580808 - Found $$PDSLOD.jcl (text/plain) in CBT.V504.FILE562.PDS, moved to PDS/$$PDSLOD
+2023-04-03 01:11:29.581769 - Found $$README.txt (text/plain) in CBT.V504.FILE562.PDS, moved to PDS/$$README
+2023-04-03 01:11:29.582722 - Found $MSGS.txt (text/plain) in CBT.V504.FILE562.PDS, moved to PDS/$MSGS
+2023-04-03 01:11:29.583731 - Found $PLIB.txt (text/plain) in CBT.V504.FILE562.PDS, moved to PDS/$PLIB
+2023-04-03 01:11:29.584627 - Found @FILE562.txt (text/plain) in CBT.V504.FILE562.PDS, moved to PDS/@FILE562
+2023-04-03 01:11:29.585537 - Found AATX000.rexx (text/plain) in CBT.V504.FILE562.PDS, moved to PDS/AATX000
+2023-04-03 01:11:29.586419 - Found AATX010.rexx (text/plain) in CBT.V504.FILE562.PDS, moved to PDS/AATX010
+2023-04-03 01:11:29.587403 - Found AATX020.rexx (text/plain) in CBT.V504.FILE562.PDS, moved to PDS/AATX020
+2023-04-03 01:11:29.588353 - Found AATX030.rexx (text/plain) in CBT.V504.FILE562.PDS, moved to PDS/AATX030
+2023-04-03 01:11:29.589242 - Found AATX034.rexx (text/plain) in CBT.V504.FILE562.PDS, moved to PDS/AATX034
+2023-04-03 01:11:29.590147 - Found AATX060.rexx (text/plain) in CBT.V504.FILE562.PDS, moved to PDS/AATX060
+2023-04-03 01:11:29.591094 - Found AATX064.rexx (text/plain) in CBT.V504.FILE562.PDS, moved to PDS/AATX064
+2023-04-03 01:11:29.592110 - Found AATX070.rexx (text/plain) in CBT.V504.FILE562.PDS, moved to PDS/AATX070
+2023-04-03 01:11:29.593336 - Found AATX074.rexx (text/plain) in CBT.V504.FILE562.PDS, moved to PDS/AATX074
+2023-04-03 01:11:29.594302 - Found AATX080.rexx (text/plain) in CBT.V504.FILE562.PDS, moved to PDS/AATX080
+2023-04-03 01:11:29.595430 - Found AATX090.txt (text/plain) in CBT.V504.FILE562.PDS, moved to PDS/AATX090
+2023-04-03 01:11:29.596569 - Found ARGPASS.rexx (text/plain) in CBT.V504.FILE562.PDS, moved to PDS/ARGPASS
+2023-04-03 01:11:29.597643 - Found DATE.rexx (text/plain) in CBT.V504.FILE562.PDS, moved to PDS/DATE
+2023-04-03 01:11:29.598540 - Found MODEL.rexx (text/plain) in CBT.V504.FILE562.PDS, moved to PDS/MODEL
+2023-04-03 01:11:29.599479 - Found MULTPULL.rexx (text/plain) in CBT.V504.FILE562.PDS, moved to PDS/MULTPULL
+2023-04-03 01:11:29.600760 - Found PARSPULL.rexx (text/plain) in CBT.V504.FILE562.PDS, moved to PDS/PARSPULL
+2023-04-03 01:11:29.601808 - Found REXXADDR.txt (text/plain) in CBT.V504.FILE562.PDS, moved to PDS/REXXADDR
+2023-04-03 01:11:29.602790 - Found SAY.rexx (text/plain) in CBT.V504.FILE562.PDS, moved to PDS/SAY
+2023-04-03 01:11:29.603683 - Found TEST.rexx (text/plain) in CBT.V504.FILE562.PDS, moved to PDS/TEST
+2023-04-03 01:11:29.604808 - Found TEST1.rexx (text/plain) in CBT.V504.FILE562.PDS, moved to PDS/TEST1
+2023-04-03 01:11:29.605752 - Found TIMEGAME.rexx (text/plain) in CBT.V504.FILE562.PDS, moved to PDS/TIMEGAME
